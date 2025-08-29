@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">Hey 👋, I'm Aws Kokash</h1>
+<h3 align="center">A passionate Master’s student in Computer Science from Jordan with a strong interest in cybersecurity, particularly in blue team operations and defense strategies.</h3>
 
-<!--
-**v3n1x/v3n1x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **network defense, vulnerability management, and SOC operations.**
 
-Here are some ideas to get you started:
+- 👨‍💻 All of my projects are available at [https://github.com/V3N1X/Projects](https://github.com/V3N1X/Projects)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **kokashaws@gmail.com**
+
+- ⚡ Other interests **I’ve worked as a video editor for many companies and organized Counter-Strike 2 tournaments with the Jordan Esports Federation.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
