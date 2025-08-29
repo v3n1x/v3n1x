@@ -7,6 +7,7 @@
 
 - ⚡ Other interests **I’ve worked as a video editor for many companies and organized tournaments with the Jordan Esports Federation.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/awskokash/</h3>
 <p align="left">
+  
 </p>
