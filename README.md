@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Aws Kokash</h1>
 <h3 align="center">A passionate Master’s student in Computer Science from Jordan with a strong interest in cybersecurity, particularly in blue team operations and defense strategies.</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/V3N1X/Projects](https://github.com/V3N1X/Projects)
+- 👨‍💻 All of my projects are available at [https://github.com/V3N1X/Projects](https://github.com/v3n1x/Projects)
 
 - 📫 How to reach me **kokashaws@gmail.com**
 
